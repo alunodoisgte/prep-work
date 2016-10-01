@@ -10,97 +10,97 @@ Fill in the blanks and mark off these as you do them by adding an
 
 - [ ] **Create**: Gmail.com Address
 
-  * My Gmail address is ______.
-  * My most important password of all is my ______ password.
-  * I made sure to set my ______.
+  * My Gmail address is "smlucas13@gmail.com".
+  * My most important password of all is my email password.
+  * I made sure to set my password.
 
 - [ ] **Agree**: Read, A Lot
 
-  * The most important skill of a developer is ______.
-  * I agree to ______.
+  * The most important skill of a developer is read.
+  * I agree to read a lot.
 
 - [ ] **Join**: Mailing List
 
-  * I have ______ myself and my parents to ______.
-  * Emails from the mailing list come to the ______ folder.
-  * SkilStak newsletters are sent every ______.
+  * I have signed myself and my parents to the mailing list.
+  * Emails from the mailing list come to the promotions folder.
+  * SkilStak newsletters are sent every month.
 
 - [ ] **Complete**: Markdown Tutorial
 
-  * I have ______ the markdown tutorial.
+  * I have completed the markdown tutorial.
 
 - [ ] **Attain**: 24 WPM on TypingTest.com
 
-  * The second most important skill of a developer is ______.
-  * I type ______ words per minute.
+  * The second most important skill of a developer is typing.
+  * I type 36 words per minute.
 
 - [ ] **Show**: How to Use Chrome Incognito
 
-  * You should always use Incognito because ______.
+  * You should always use Incognito because you might mess up the students before and after you.
 
 - [ ] **Explain**: Core Offerings
 
-  * Everyone starts SkilStak™ in ______.
-  * To get into the *Project* course I have to ______.
-  * To get into *Pro* I have to ______.
-  * ______ is good socialization practice.
-  * True or false, Yoga is a technical skill: ______
-  * YouTube and blogging are taught in ______.
-  * In which course could I learn Swift programming? ______
-  * I understand ______ offerings.
+  * Everyone starts SkilStak™ in prep.
+  * To get into the *Project* course I have to certify.
+  * To get into *Pro* I have to be invited.
+  * Pro is good socialization practice.
+  * True or false, Yoga is a technical skill: false
+  * YouTube and blogging are taught in NewMedia.
+  * In which course could I learn Swift programming? custom projects
+  * I understand core offerings.
 
 - [ ] **Pick**: Technology Path
 
-  * ______ leads to *Engineering* and *Linux* focus categories.
-  * ______ leads to *Web* and *Apps* focus categories.
-  * ______ lead to *Data* and *Languages* focus categories.
-  * I declare my technology path to be ______.
+  * python leads to *Engineering* and *Linux* focus categories.
+  * web leads to *Web* and *Apps* focus categories.
+  * web lead to *Data* and *Languages* focus categories.
+  * I declare my technology path to be web.
 
 - [ ] **Join**: Slack Chat Room
 
-  * My Slack chat room web address is ______.
-  * I will check ______ at least ______.
+  * My Slack chat room web address is smlucas13@gmail.com.
+  * I will check slack at least 1 every day.
 
 - [ ] **Create**: GitHub.com Account
 
-  * My GitHub account is ______.
-  * True or false, I can change my GitHub name anytime? ______.
-  * My account name does not have ______ in it.
+  * My GitHub account is smlucas13.
+  * True or false, I can change my GitHub name anytime? true.
+  * My account name does not have caps/numbers/symbols in it.
 
 - [ ] **Edit**: File with GitHub
 
-  * I put the ______ file into this work repo.
+  * I put the text file into this work repo.
 
 - [ ] **Create**: Individual Development Plan
 
-  * I have completed by ______.
-  * The most important quality of a good goal to me is ______.
+  * I have completed by perseverence.
+  * The most important quality of a good goal to me is the challange.
 
 - [ ] **Create**: First Github Issue
 
-  * The name of my issue on this repo is ______.
-  * Issues are a great way to ______.
+  * The name of my issue on this repo is spelling issues.
+  * Issues are a great way to fix/debug.
 
 - [ ] **Create**: Custom Issue Label
 
-  * Custom labels are good because ______.
-  * I created custom labels called ______, ______, ______.
+  * Custom labels are good because easy to track and remmember.
+  * I created custom labels called bug, spelling, grammar.
 
 - [ ] **Sign**: Student Pledge
 
-  * I solemnly swear to ______.
-  * If I break the pledge I can get a ______.
+  * I solemnly swear to be nice.
+  * If I break the pledge I can get a strike.
 
 - [ ] **Create**: First Web Site
 
-  * The URL to my first web site is ______.
+  * The URL to my first web site is skilstak.sh:8041.
 
 - [ ] **Create**: CodeCombat.com Account(s)
 
-  * The email for Python is ______.
-  * The email for JavaScript is ______.
-  * I need to get into the ______ to move out of Prep.
-  * I need to get into the ______ to apply for *Certification*.
+  * The email for Python is smlucas13@gmail.com.
+  * The email for JavaScript is smlucas13+js@gmail.com.
+  * I need to get into the forest to move out of Prep.
+  * I need to get into the mountain to apply for *Certification*.
 
 - [ ] **Know**: Your Web Sites
 
