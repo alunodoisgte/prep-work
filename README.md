@@ -104,38 +104,38 @@ Fill in the blanks and mark off these as you do them by adding an
 
 - [ ] **Know**: Your Web Sites
 
-  * My location name is ______.
-  * The web site for my *location* is ______.
-  * The web site for SkilStak™ is ______.
-  * I can lookup shortcuts from ______.
-  * My personal web site address is ______.
+  * My location name is cornelius.
+  * The web site for my *location* is cornelius.
+  * The web site for SkilStak™ is skilstak.io.
+  * I can lookup shortcuts from shortcuts.skilstak.io.
+  * My personal web site address is skilstak.sh:8041.
 
 - [ ] **Remember**: Passwords!
 
-  * If I keep trying my GitHub password I risk ______.
-  * The most important password to remember is ______.
-  * My strategy for remember my password is ______.
+  * If I keep trying my GitHub password I risk locking out the entire class.
+  * The most important password to remember is gmail.
+  * My strategy for remember my password is list.
 
 - [ ] **Explain**: Communications
 
-  * The phone number for my location is ______.
-  * The email for my location is ______.
-  * The street address for my location is ______.
-  * The main SkilStak™ phone is ______.
+  * The phone number for my location is 704-310-6778.
+  * The email for my location is conelius@skilstak.com
+  * The street address for my location is SkilStak Coding Arts - Cornelius, 21347 Catawba Avenue, Cornelius, NC 28031
+  * The main SkilStak™ phone is 704-310-6778.
   * My emergency contact phone is ______ (not my own).
-  * My emergency contact email is ______ (not my own).
-  * If I have an emergency and need to contact you I should ______.
-  * If I want to schedule a makeup I should ______.
-  * If I have a question about codecombat I should ______.
-  * True or false, when I can’t come my parents should email?  ______.
-  * The best place to find videos and photos of my location is ______.
+  * My emergency contact email is tracie@lucasemail.com (not my own).
+  * If I have an emergency and need to contact you I should text.
+  * If I want to schedule a makeup I should email.
+  * If I have a question about codecombat I should slack.
+  * True or false, when I can’t come my parents should email?  false the student should.
+  * The best place to find videos and photos of my location is skilstak.io.
   
 - [ ] **Explain**: Policies
 
-  * Officially there are no ______.
-  * My Mom and Dad can watch a class if ______.
-  * If I refer a friend I get ______% off next semester’s cost.
-  * I can get ______% off next semester for referring a friend.
+  * Officially there are no refunds.
+  * My Mom and Dad can watch a class if they ask a week ahead.
+  * If I refer a friend I get % off next semester’s cost.
+  * I can get 5% off next semester for referring a friend.
   * I can get a strike for ______, ______, ______, or more.
   * True of false, SkilStak™ can stop me from coming to any SkilStak™
     for any reason they deem necessary without a refund.  ______
