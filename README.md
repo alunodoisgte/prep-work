@@ -136,79 +136,78 @@ Fill in the blanks and mark off these as you do them by adding an
   * My Mom and Dad can watch a class if they ask a week ahead.
   * If I refer a friend I get % off next semester’s cost.
   * I can get 5% off next semester for referring a friend.
-  * I can get a strike for ______, ______, ______, or more.
+  * I can get a strike for destruction of property, Violation of Privacy, Information Theft or more.
   * True of false, SkilStak™ can stop me from coming to any SkilStak™
-    for any reason they deem necessary without a refund.  ______
-  * The most important factor in learning to code is ______.
-  * I can only make up ______ missed classes in a row.
-  * The minimum number of students to not cancel a course is ______.
+    for any reason they deem necessary without a refund.  T
+  * The most important factor in learning to code is commitment.
+  * I can only make up 2 missed classes in a row.
+  * The minimum number of students to not cancel a course is 4.
 
-- [ ] **Explain**: What is just-in-time learning?
+- [ ] ***Explain*: What is just-in-time learning?
 
-  * Just in time learning is ______.
+  * Just in time learning is the most important skill to learn is how to learn, often just in time to make the deadline. When combined with a solid foundation in logical thinking and creative problem solving just-in-time learning allows those in IT to quickly digest any relevant technology, understand it, and apply it productively.
 
 - [ ] **Explain**: What is coding?
 
-  * Coding is ______.
-  * Programming is ______.
-  * Computer science is ______.
-  * True or False: HTML is a programming language. ______
-  * One language with code that is not programming is ______.
+  * Coding is coding is not programming
+  * Programming is programming is coding
+  * Computer science is the study of the principles and use of computers.
+  * True or False: HTML is a programming language. f
+  * One language with code that is not programming is html.
 
 - [ ] **Explain**: What is organic learning?
 
-  * Organic means ______.
-  * Learning should be tailored to fit ______.
+  * Organic means natural from nature
+  * Learning should be tailored to fit the student.
 
 - [ ] **Explain**: Which computer should I get?
 
-  * Microsoft lacks a ______.
-  * Apple became preferred by developers when ______.
-  * Linux is based on ______.
+  * Microsoft lacks a commmand line.
+  * Apple became preferred by developers when This is not Linux but feels very much like it, which is why command line developers and good system administrators prefer it.
+  * Linux is based on the extremely powerful command line
 
 - [ ] **Show**: Screenshot
 
-  * To make a screenshot of a region on Mac press ______.
-  * To make animated GIFs on Mac use ______.
+  * To make a screenshot of a region on Mac press command shift 4.
+  * To make animated GIFs on Mac use giffy capture.
 
 - [ ] **Show**: Drag a File into a Repo
 
-  * I uploaded ______ to this repo using drag-n-drop.
+  * I uploaded mage, pdf, etcto this repo using drag-n-drop.
 
 - [ ] **Show**: Login with Mac Terminal
 
-  * I can get the files to solarize my terminal from ______.
-  * I can increase the font size of my terminal with ______.
-  * I can full screen my terminal with ______.
+  * I can get the files to solarize my terminal from SFTP-SSH
+  * I can increase the font size of my terminal with ⌘ + +/- to Increase/Decrease Font Size
+  * I can full screen my terminal with ⌘ + crtl + f to Full Screen
 
 - [ ] **Show**: Login with CodeAnywhere.com
 
-  * CodeAnywhere is ______ blocked if `ssh` is blocked.
-  * True or false: CodeAnywhere is great for professionals.  ______
-  * CodeAnywhere is ______ than terminal.
+  * CodeAnywhere is not blocked if `ssh` is blocked.
+  * True or false: CodeAnywhere is great for professionals.  f
+  * CodeAnywhere is more than terminal.
 
 - [ ] **Show**: Bash and VIM Essentials
 
-  * To make a new file without opening it use ______.  
-  * To make a file runnable use ______.  
-  * The first line of a Python file should be ______.
-  * When I forgot a Bash command I should ______.
+  * To make a new file without opening it use vi.  
+  * To make a file runnable use mv.  
+  * The first line of a Python file should be #!/usr/bin/env python3.
+  * When I forgot a Bash command I should help.
 
 - [ ] **Show**: Basic Math
 
-  * Programming came from  ______.
-  * `x = 2y + 3` is an example of ______.
-  * In programming `x` is ______ and `y` is ______.
+  * Programming came from  math.
+  * `x = 2y + 3` is an example of algebra.
+  * In programming `x` is horizantal and `y` is vertical.
 
 - [ ] **Attain**: Forest in CodeCombat.com
 
-  * *Upload screenshots of each level to this repo.*
-
+  Screen Shot 2016-10-15 at 11.45.56 AM
 - [ ] **Configure**: GitHub Keys
 
-  * Keys are like ______.
-  * The command to create new key pair is ______.
-  * I can test connecting to GitHub with ______.
+  * Keys are like GitHub keys are sort of like a master magic message decoder ring and a bunch of rings you could give others to communicate with you secretly.
+  * The command to create new key pair is . ssh-keygen
+  * I can test connecting to GitHub with gitclone.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
